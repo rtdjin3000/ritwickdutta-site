@@ -1,0 +1,62 @@
+# Ritwick Dutta
+
+> Ritwick Dutta is an applied AI architect at Microsoft focused on AI leadership, customer solutions, enterprise AI adoption, and production-ready GenAI and agentic systems. Based in Toronto, Canada. Views are his own.
+
+## Start here
+
+- [Home](https://ritwickdutta.com/): Overview, selected work, leadership approach, background, and how to get in touch.
+- [Writing](https://ritwickdutta.com/writing/): 21 published articles and an archive of original LinkedIn posts, searchable by topic.
+
+## Experience
+
+- Microsoft, Applied AI Architect, Financial Services (Oct 2025 - Present). Advise regulated organizations on GenAI and agentic architecture, production readiness, and platform governance. Connect customer engineering teams with product groups through workshops and design reviews.
+- TELUS, Lead AI Engineer (Oct 2023 - Oct 2025). Led applied AI delivery across multimodal assistants, agentic problem management, and workforce forecasting. Built two RAG-based assistants for field technicians and sales enablement.
+- Bell, Senior Manager, Artificial Intelligence (Nov 2021 - Sep 2023). Owned AI and data strategy transformation and an enterprise ML portfolio. Advanced Google Cloud data foundations, GenAI personalization, and responsible AI practices.
+- Rogers Communications, Manager, Data Scientist (Nov 2019 - Oct 2021). Led cloud analytics transformation and a machine learning portfolio across sales, marketing, and pricing, including recommendations, segmentation, and NLP.
+- Bellwether Investment Management, Quantitative Analyst, Portfolio Management (May 2019 - Feb 2020). Worked on the quantitative construction of the Alpha and Balanced Adaptive ETF funds. Built a Python and Bloomberg BQNT backtesting engine with automated research reporting. Developed risk-return analytics and researched RNN, GRU, and LSTM return forecasting.
+
+## Education
+
+- Master in Quantitative Investment Management, University of New Brunswick
+- MBA in Strategy, Amity Business School
+
+## Selected public work
+
+- [Operational LLMOps with Microsoft Foundry](https://ritwickdutta.com/work/operational-llmops/): A hands-on workshop connecting RAG evaluation, model changes, and safety checks to the release process.
+- [PyRIT red-team demo](https://ritwickdutta.com/work/ai-safety-red-teaming/): An interactive notebook, report, and dashboard for exploring model safety evaluation with Microsoft's open-source PyRIT.
+- [Azure ML + MLflow workshop](https://ritwickdutta.com/work/production-mlops/): An end-to-end learning path covering tracking, deployment, retraining, drift detection, and governance.
+- [Source-grounded PDF chart intelligence](https://ritwickdutta.com/work/source-grounded-chart-intelligence/): A synthetic-data prototype that extracts chart values with source pages, evidence, confidence, and review flags.
+- [Consent-aware campaign application](https://ritwickdutta.com/work/consent-aware-campaigns/): An independent application combining optional AI-assisted campaign writing with opt-in, preview, and human review workflows.
+- [Falcon + LangChain + Chainlit](https://ritwickdutta.com/work/open-model-conversations/): A lightweight conversational prototype exploring an open model, orchestration, and a simple chat interface.
+- [Axolytica, an AI-native social platform prototype](https://ritwickdutta.com/work/axolytica/): A founder-built prototype that combines health analytics, LLM-written reports, and similarity-based matching, with a public early-access page.
+
+## Published articles
+
+- [Open Models Are Accelerating. The Model Harness Is Becoming the Differentiator.](https://www.linkedin.com/pulse/open-models-accelerating-model-harness-becoming-ritwick-dutta-2cw9c/): Enterprise AI choices beyond the model: the systems, controls, and harness around it.
+- [How to Stay Relevant in the Age of AI Agents (Without Losing Your Mind)](https://www.linkedin.com/pulse/how-stay-relevant-age-ai-agents-without-losing-your-mind-dutta-4cy0c/): A practical perspective for builders navigating the pace of agentic AI.
+- [The Algorithmic Idol: Why AI is More "Social Climber" Than "Supercomputer"](https://www.linkedin.com/pulse/algorithmic-idol-why-ai-more-social-climber-than-ritwick-dutta-moowe/): A different lens on how large language models learn and behave.
+- [Stop Just Automating. Start Autonomizing. Your 5-Stage Roadmap from RPA to AI Agents](https://www.linkedin.com/pulse/stop-just-automating-start-autonomizing-your-5-stage-roadmap-dutta-tsume/): The shift from repetitive automation toward agentic workflows and autonomy.
+- [Are AI Models the New Ghosts of Our World?](https://www.linkedin.com/pulse/ai-models-new-ghosts-our-world-ritwick-dutta-357we/): A reflection on language models and our relationship with invisible digital intelligence.
+- [KV caching supercharges RAG and Agentic workflows](https://www.linkedin.com/pulse/kv-caching-supercharges-rag-agentic-workflows-ritwick-dutta-4flre/): An introduction to KV caching and its relevance to RAG and agentic workloads.
+- [Reimagining Human Behavior Modeling in NLP: Toward Emotion-Attitude-Aware LLMs](https://www.linkedin.com/pulse/reimagining-human-behavior-modeling-nlp-toward-llms-ritwick-dutta-qd50f/): Exploring emotion and attitude as directions for language-model behavior modeling.
+- [Beyond Traditional RAG: How Agentic and Meta RAG are Redefining AI Retrieval](https://www.linkedin.com/pulse/beyond-traditional-rag-how-agentic-meta-redefining-ai-ritwick-dutta-slkoe/): A perspective on evolving retrieval patterns around agentic systems.
+- [The Rising Hype Around Model Context Protocol (MCP) in Agentic AI Workflows](https://www.linkedin.com/pulse/rising-hype-around-model-context-protocol-mcp-agentic-ritwick-dutta-v973e/): Examining MCP's place in the conversation about agentic workflows.
+- [Beyond the Bot: Human Leadership in the AI Age](https://www.linkedin.com/pulse/beyond-bot-human-leadership-ai-age-ritwick-dutta-o4r3e/): The human side of leadership in a world increasingly shaped by AI.
+- [Data & Knowledge Distillation: How Synthetic Data is Driving Business Success](https://www.linkedin.com/pulse/data-knowledge-distillation-how-synthetic-driving-business-dutta-xwuje/): Synthetic data and knowledge distillation through a business-oriented lens.
+- [Leadership in the Age of LLMs and Gen AI: Strategies for Success](https://www.linkedin.com/pulse/leadership-age-llms-gen-ai-strategies-success-ritwick-dutta-u1hye/): Leadership perspectives for organizations working with generative AI.
+- [Top 5 AI Milestones Achieved in 2024](https://www.linkedin.com/pulse/top-5-ai-milestones-achieved-2024-ritwick-dutta-6rxwe/): A retrospective on AI developments in 2024.
+- [Nature's Blueprint: How AI and Ecology Are Reshaping Our World](https://www.linkedin.com/pulse/natures-blueprint-how-ai-ecology-reshaping-our-world-ritwick-dutta-agabe/): A reflection on connections between artificial intelligence and ecology.
+- [Machine Learning Operations (MLOps)](https://www.linkedin.com/pulse/machine-learning-operations-mlops-ritwick-dutta-yowme/): An introduction to the operational side of machine learning.
+- [GPT - OpenAI DevDay Launch!](https://www.linkedin.com/pulse/gpt-openai-devday-launch-ritwick-dutta-rah2e/): Commentary on an OpenAI DevDay launch.
+- [Artificial Intelligence in Political Science](https://www.linkedin.com/pulse/artificial-intelligence-political-science-ritwick-dutta/): Exploring applications of AI in political science.
+- [Personalizing a Chatbot with self-supervised learning capabilities](https://www.linkedin.com/pulse/personalizing-chatbot-self-supervised-learning-ritwick-dutta/): A perspective on chatbot personalization and self-supervised learning.
+- [The GCP Enterprise Data Solution Architecture - How to Integrate different types of data sources to generate effective Business Intelligence?](https://www.linkedin.com/pulse/gcp-enterprise-data-solution-architecture-how-integrate-dutta/): Connecting enterprise data sources to business intelligence on Google Cloud.
+- [Personalizing a Chatbot - A Simple Architecture](https://www.linkedin.com/pulse/personalizing-chatbot-simple-architecture-ritwick-dutta/): An architectural starting point for chatbot personalization.
+- [The Importance of AI Altruism](https://www.linkedin.com/pulse/importance-ai-altruism-ritwick-dutta/): A reflection on AI altruism and the purposes of artificial intelligence.
+
+## Profiles and contact
+
+- [LinkedIn](https://www.linkedin.com/in/ritwickdutta/)
+- [GitHub, AI workshops & demos](https://github.com/ritwickmicrosoft)
+- [GitHub, Independent projects](https://github.com/rtdjin3000)
+- Request a discussion on the site, or email rittwick.dutta@gmail.com.
