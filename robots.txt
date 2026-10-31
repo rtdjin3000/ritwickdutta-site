@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /_astro/microsoft-accelerate-event.
+Disallow: /_astro/microsoft-ai-team-canada.
+Disallow: /_astro/microsoft-team-discussion.
+Disallow: /_astro/microsoft-australia-colleague.
+Disallow: /_astro/microsoft-campus-redmond.
+Disallow: /_astro/bell-ai-team.
+Disallow: /_astro/bell-team-barbecue.
+Disallow: /_astro/telus-hackathon.
+Disallow: /_astro/telus-team.
+Disallow: /_astro/rogers-team.
+Disallow: /_astro/rogers-team-quebec.
+Disallow: /_astro/rogers-team-lunch.
+Disallow: /_astro/bellwether-holiday-lunch.
+Disallow: /_astro/toronto-machine-learning-summit.
+Disallow: /_astro/university-new-brunswick-masters-group.
+
+Sitemap: https://ritwickdutta.com/sitemap.xml
